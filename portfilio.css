@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-expand-lg {
+    background-color: #1f2933;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: 700;
+
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-color: #1f2933;
+    text-align: center;
+    height: 87vh;
+    padding-top: 17vh;
+
+
+
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.banner-heading-span-style {
+    color: #4b6cc1;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #4b6cc1;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.banner-section-img {
+    height: 300px;
+    border-color: blue;
+
+}
+
+
+.portfolio-section {
+    background-color: #1f2933;
+
+}
+
+.portfolio-span {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.portfolio-section-img {
+    width: 275px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.portfolio-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.portfolio-section-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.skills-section {
+    background-color: #1f2933;
+}
+
+.skills-section-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.skills-card {
+    text-align: center;
+    background-color: #323f4b;
+    border-style: solid;
+    border-width: 1px;
+
+    border-radius: 16px;
+}
+
+.skills-card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.skills-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 550;
+}
+
+
+
+
+
+
+
+
+
+
+.portfolios-span {
+    color: #cced00;
+    font-weight: 550;
+    font-size: 23px;
+}
+
+.portfolios-section {
+    background-color: #1f2933;
+}
+
+.portfolios-item-card {
+    background-color: #323f4b;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.portfolios-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    padding-left: 10px;
+
+}
+
+.portfolios-para {
+    color: #9aa5b1;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.portfolios-pararaph {
+    color: #9aa5b1;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.portfolios-item-link {
+    color: #cced00;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+.portfolios-span {
+    color: #cced00;
+    font-weight: 550;
+    font-size: 23px;
+}
+
+.portfolios-section {
+    background-color: #3e4c59;
+}
+
+.portfolios-section-description {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.portfolios-item-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.portfolios-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    padding-left: 10px;
+
+}
+
+.portfolios-pararaph {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: #9aa5b1;
+}
+
+.portfolios-para {
+    color: #9aa5b1;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.portfolios-item-image {
+    height: 50px;
+    width: 50px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+.icon {
+
+    color: white;
+    font-size: 50px;
+}
+
+.portfolios-section {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.portfolios-item-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+
+    padding: 10px;
+
+}
+
+.portfolios-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    padding-left: 10px;
+
+}
+
+.portfolios-pararaph {
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+    font-size: 10px;
+    color: white;
+}
+
+.portfolios-para {
+    color: #9aa5b1;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.portfolios-item-image {
+    height: 50px;
+    width: 50px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+.testimonials-container {
+    background-color: #1f2933;
+}
+
+.testimonial-heading {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.testimonials-card {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.testimonial-para {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.testimonialscard-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 40px;
+}
+
+.testimonials-card-description {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.testimonals-card-personname {
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.explore-menu-section {
+    background-color: #0d2436;
+
+
+}
+
+.menu-item-image {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+
+}
+
+.menu-card-title {
+    color: #cced00;
+    font-weight: 700;
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: "Roboto";
+    margin-top: 15px;
+}
+
+.menu-card-paragraph {
+    color: #9aa5b1;
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 20px;
+    font-family: "Roboto";
+}
+
+.xploere-meunu-section {
+    background-color: #001c32;
+}
+
+.manu-name {
+    background-color: #001c32;
+    color: #5a7184;
+
+}
